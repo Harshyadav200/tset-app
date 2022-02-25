@@ -14,7 +14,7 @@ function App() {
   return (
     <form onSubmit={handleSubmit}>
       <label>
-        Enter your name:
+        Enter anything you want:
         <input
           type="text"
           value={name}
